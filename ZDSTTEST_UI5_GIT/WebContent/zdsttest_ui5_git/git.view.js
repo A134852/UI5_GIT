@@ -14,7 +14,7 @@ sap.ui.jsview("zdsttest_ui5_git.git", {
 	*/ 
 	createContent : function(oController) {
  		return new sap.m.Page({
-			title: "Title",
+			title: "Title 2",
 			content: [
 			
 			]
